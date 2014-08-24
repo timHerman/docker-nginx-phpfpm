@@ -63,8 +63,3 @@ For more information leave a message or visit http://www.punk.be
 
 Regards,
 Tim
-
-
-Inspiration from:
-https://rtcamp.com/phpfpm-nginx/tutorials/single-site/w3-total-cache/
-https://github.com/bradleyboy/docker-koken-nginx/blob/master/Dockerfile
